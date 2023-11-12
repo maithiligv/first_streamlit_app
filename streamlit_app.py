@@ -45,4 +45,4 @@ streamlit.text("The fuit load list contains:")
 streamlit.dataframe(my_data_rows)
 
 #Allow end user to add fruit
-add_my_fruit = streamlit.text_input('What fruit would you like information add?','Jackfruit')
+add_my_fruit = streamlit.text_input('What fruit would you like add?','Jackfruit')
