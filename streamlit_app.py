@@ -1,7 +1,7 @@
 import streamlit
 import pandas
 import requests
-import snowflake.connectore
+import snowflake.connector
 
 streamlit.title('My parents New Healthy Diner')
 streamlit.header('Breakfast Menu')
